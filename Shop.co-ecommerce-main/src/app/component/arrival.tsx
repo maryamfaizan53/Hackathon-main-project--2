@@ -8,29 +8,29 @@ export default function NewArrivals() {
     {
       id: 1,
       name: 'Hoodie For Mens',
-      imageUrl: '/cloth1.jpg',
-      price: 212,
+      imageUrl: '/images/pic1.png',
+      price: 120,
       rating: 5,
     },
     {
       id: 2,
       name: 'T-Shirts For Mens',
-      imageUrl: '/cloth2.jpeg',
-      price: 145,
+      imageUrl: '/images/pic2.png',
+      price: 240,
       rating: 3,
     },
     {
       id: 3,
       name: 'Trousers For Women',
-      imageUrl: '/5.jpeg',
-      price: 80,
+      imageUrl: '/images/pic3.png',
+      price: 180,
       rating: 4,
     },
     {
       id: 4,
       name: 'Fits Bermuda T-Shirts',
-      imageUrl: '/2.jpg',
-      price: 210,
+      imageUrl: '/images/pic4.png',
+      price: 130,
       rating: 5,
     },
   ];
@@ -40,7 +40,7 @@ export default function NewArrivals() {
       <h2 className="font-extrabold text-[35px] text-center my-8 md:text-[45px] lg:text-[60px] lg:mt-10">
         NEW ARRIVALS
       </h2>
-      <div className="flex justify-center items-center flex-wrap gap-5">
+      <div className="flex justify-center items-center overflow-x-auto gap-5">
         {products.map((product) => (
           <div key={product.id} className='hover:shadow-lg transition-shadow p-5 hover:rounded-r-xl'>
             <Link href={`/product/${product.id}`}>

@@ -9,7 +9,10 @@ export default function footer() {
     <div className='bg-[#e3e3e1] w-[100%] h-auto p-3 flex justify-evenly items-start flex-col md:flex-row pt-32'>
       <div className='w-[100%] pl-10'>
         <h4 className='text-[40px] font-extrabold'>SHOP.C0</h4>
-        <p>Lorem ipsum dolor sit amet consectetur <br /> adipisicing elit. Perferendis praesentium <br /> facere labore hic odit accusantium</p>
+        <p>We have clothes that suits your style and  <br />
+         which you’re proud to wear
+          From <br />
+          women to men.</p>
         <div className='flex py-6 gap-5 '>
         <FaFacebook size='30px' />
         <AiFillInstagram size='30px'/>
@@ -26,6 +29,7 @@ export default function footer() {
       </div>
       <div>
       <h4 className='text-[20px] font-bold'>HELP</h4>
+      <Link href='#'>Customer Support</Link> <br />
         <Link href='#'>Delivery Details</Link> <br />
         <Link href='#'>Terms & Conditions</Link> <br />
         <Link href='#'>Privacy Policy</Link> <br />
@@ -36,8 +40,8 @@ export default function footer() {
       <h4 className='text-[20px] font-bold'>FAQS</h4>
         <Link href='#'>Accounts</Link> <br />
         <Link href='#'>Manage Deliery</Link> <br />
-        <Link href='#'>Payment</Link> <br />
         <Link href='#'>Orders</Link> <br />
+        <Link href='#'>Payments</Link> <br />
       </div>
       <div>
       <h4 className='text-[20px] font-bold'>RESOURCES</h4>

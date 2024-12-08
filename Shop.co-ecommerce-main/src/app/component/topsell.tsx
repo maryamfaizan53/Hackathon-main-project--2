@@ -7,29 +7,29 @@
     const products = [
       {
         id: 5,
-        name: 'Hoodie For Mens',
-        imageUrl: '/1.jpg',
+        name: 'Vertical Striped Shirt',
+        imageUrl: '/images/pic5.png',
         price: 212,
         rating: 5,
       },
       {
         id: 6,
-        name: 'T-Shirts For Mens',
-        imageUrl: '/cloth2.jpeg',
+        name: 'Courage Graphic T-Shirt',
+        imageUrl: '/images/pic6.png',
         price: 145,
         rating: 3,
       },
       {
         id: 7,
         name: 'Loose Fits Bermuda Shorts',
-        imageUrl: '/3.jpeg',
+        imageUrl: '/images/pic7.png',
         price: 80,
         rating: 4,
       },
       {
         id: 8,
-        name: 'Fits Bermuda T-Shirts',
-        imageUrl: '/2.jpg',
+        name: 'Faded Skiny Jeans',
+        imageUrl: '/images/pic8.png',
         price: 210,
         rating: 5,
       },
@@ -40,7 +40,7 @@
         <h2 className="font-extrabold text-[35px] text-center my-8 md:text-[45px] lg:text-[60px] lg:mt-10">
           TOP SELLING
         </h2>
-        <div className="flex justify-center items-center flex-wrap gap-5">
+        <div className="flex justify-center items-center overflow-x-auto gap-5">
           {products.map((product) => (
             <div key={product.id} className='hover:shadow-lg transition-shadow p-5 hover:rounded-r-xl'>
               <Link href={`/product/${product.id}`}>

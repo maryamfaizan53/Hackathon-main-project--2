@@ -13,7 +13,7 @@ const productData = [
     price: 212,
     rating: 5,
     description: "Stylish hoodie made for comfort and durability.",
-    image: "/cloth1.jpg",
+    image: "/images/pic1.png",
   },
   {
     id: "2",
@@ -21,7 +21,7 @@ const productData = [
     price: 145,
     rating: 3,
     description: "Casual t-shirt for everyday wear.",
-    image: "/cloth2.jpeg",
+    image: "/images/pic2.png",
   },
   {
     id: "3",
@@ -29,7 +29,7 @@ const productData = [
     price: 80,
     rating: 4,
     description: "Stylish hoodie made for comfort and durability.",
-    image: "/5.jpeg",
+    image: "/images/pic3.png",
   },
   {
     id: "4",
@@ -37,7 +37,7 @@ const productData = [
     price: 210,
     rating: 5,
     description: "Stylish hoodie made for comfort and durability.",
-    image: "/2.jpg",
+    image: "/images/pic4.png",
   },
   {
     id: "5",
@@ -45,7 +45,7 @@ const productData = [
     price: 212,
     rating: 5,
     description: "Stylish hoodie made for comfort and durability.",
-    image: "/1.jpg",
+    image: "/images/pic5.png",
   },
   {
     id: "6",
@@ -53,7 +53,7 @@ const productData = [
     price: 145,
     rating: 3,
     description: "Casual t-shirt for everyday wear.",
-    image: "/cloth2.jpeg",
+    image: "/images/pic6.png",
   },
   {
     id: "7",
@@ -61,7 +61,7 @@ const productData = [
     price: 80,
     rating: 4,
     description: "Comfortable shorts perfect for summer.",
-    image: "/3.jpeg",
+    image: "/images/pic7.png",
   },
   {
     id: "8",
@@ -69,7 +69,7 @@ const productData = [
     price: 210,
     rating: 5,
     description: "High-quality t-shirt for a relaxed fit.",
-    image: "/2.jpg",
+    image: "/images/pic8.png",
   },
   {
     id: "9",
@@ -77,7 +77,7 @@ const productData = [
     price: 189,
     rating: 5,
     description: "High-quality t-shirt for a relaxed fit.",
-    image: "/6.jpeg",
+    image: "/images/pic9.png",
   },
   {
     id: "10",
@@ -85,7 +85,7 @@ const productData = [
     price: 110,
     rating: 5,
     description: "High-quality t-shirt for a relaxed fit.",
-    image: "/7.jpeg",
+    image: "/images/pic8.png",
   },
 ];
 
@@ -95,14 +95,14 @@ const reviews = [
     name: "Samantha D.",
     rating: 5,
     comment: "I love this product! The design is unique and fits perfectly.",
-    date: "August 14, 2023",
+    date: "August 14, 2020",
   },
   {
     id: 2,
     name: "Alex M.",
     rating: 4,
     comment: "Great quality! Comfortable and stylish.",
-    date: "August 10, 2023",
+    date: "August 10, 2024",
   },
 ];
 
