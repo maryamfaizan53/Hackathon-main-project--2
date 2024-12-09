@@ -74,9 +74,7 @@ Contribution
 Feel free to fork this repository and contribute enhancements or fixes via pull requests. For any issues or suggestions, open a GitHub issue.
 
 Acknowledgments
-Special thanks to Sir Ameen Alam for organizing this hackathon and providing insightful mentorship. His emphasis on UI/UX principles and Next.js best practices made this project a valuable learning experience.
-
-Happy Coding! 🎉
+Special thanks to Sir Ameen Alam for organizing this hackathon and providing insightful mentorship. His emphasis on UI/UX principles and Next.js best practices made this project a valuable learning experience. 🎉
 
 
 
