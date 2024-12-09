@@ -5,7 +5,7 @@ import Link from "next/link";
 export default function herosection() {
   return (
     <div>
-      <div className="mt-3 lg:flex md:m-0 lg:m-0">
+      <div className="mt-3 lg:flex md:m-16 lg:m-0">
         <div className="bg-[#F2F0F1] w-full h-[665px] p-16 mb-0 ">
           <h1 className="text-[45px] font-[900] pl-3 leading-[45px] m-0 md:text-[26px] lg:text-[60px] lg:leading-[70px] xl:text-[85px] xl:leading-[80px]">
             FIND CLOTHES
