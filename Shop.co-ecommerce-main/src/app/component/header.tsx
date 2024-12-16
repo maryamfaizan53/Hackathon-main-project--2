@@ -27,7 +27,7 @@ export default function Header() {
         </div>
         <div className="flex space-x-4 items-center justify-around">
         
-          <FaShoppingCart font-light size={24}/>
+        <Link href="/cart">  <FaShoppingCart font-light size={24}/></Link>
        
        <Link href="/login"> <CgProfile size={28} /></Link>
         </div>
