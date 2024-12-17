@@ -181,4 +181,3 @@ export default function NewArrivals() {
 // }
 
 
-//hn bol rhi hona bolo......phr wapis push krdein gai 
