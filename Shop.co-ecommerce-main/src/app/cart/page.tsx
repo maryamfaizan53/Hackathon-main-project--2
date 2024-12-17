@@ -16,7 +16,7 @@ const Cart: React.FC = () => {
   const [cartItems, setCartItems] = useState<CartItem[]>([
     {
       id: 1,
-      image: "/pic1.png",
+      image: "/images/pic1.png",
       name: "Gradient Graphic T-shirt",
       size: "Large",
       color: "White",
@@ -25,7 +25,7 @@ const Cart: React.FC = () => {
     },
     {
       id: 2,
-      image: "/pic2.png",
+      image: "/images/pic2.png",
       name: "Checkered Shirt",
       size: "Medium",
       color: "Red",
@@ -34,7 +34,7 @@ const Cart: React.FC = () => {
     },
     {
       id: 3,
-      image: "/pic3.png",
+      image: "/images/pic3.png",
       name: "Skinny Fit Jeans",
       size: "Large",
       color: "Blue",
