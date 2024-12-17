@@ -179,3 +179,6 @@ export default function NewArrivals() {
 //     </div>
 //   );
 // }
+
+
+// han kr rha ho ..yeh keh rha ho ke ham neh ushi repo mai krdia kaam ..new banai thi na usmeh nai kra hahh...baat suno ab AP ...usmeh dair bhat lge gi mai apne pas add krlu repo ko ? ok phr mai products ka sys dynamic ek page se le kar aao ga then phr sab par display hoga then ham agye yeh ham ko sanity and database bi lage ga toh issue nai ayega apko..yr lakin mjhe to aya nhi ye sb...dekhdeo mai krta jao ga and ap ko voice note bhej bi dooo ga. agar ap bolona toh call pr ... nhi voice bhj dena...haye,,, oh no... suno pr call par ana ek baar toh mai project mai kia kra hai kese kra hai bs thora sa khud se bologa ap samjana shi ha nah prh ap code dekho gi nah apko sab agye ga easy hai koi inta bara kaam nai hai ,,sanity meneh seekh li hai..ap ko dair haina kab soo gi ap toh thora abi krlein .. han...acha prr ek baat bolo agar ap han bolo toh bonooooooooooooooooooooooo.......woh hena status mai lete wali thi nah,,toh leteh ke bagair hogi.. nah.. dekho mai kia... han bolo gi nah..han bolo gi nah bolo...no.............yar dil horha tah nah islye bola hai..hn bol do nah ,, kia hogye ga...no...kabi hn nhi bolti mere ko toh...hn bol do nah itni achi thi mai koi nazar thori lgao ga..sach mai... hn bol do nah ...sachi dil kar rha ..
